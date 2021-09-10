@@ -2,7 +2,7 @@
 - 👀   I’m interested in ...creating beautiful, dynamic, user-friendly apps and websites
 - 🌱   I’m currently learning ...full stack development at OSU school of engineering
 - 💞️   I’m looking to collaborate on ...a school fundraising website and app
-- 📕   [My Portfolio](https://github.com/larafoster/Portfolio-Project)
+- 📕   [My Portfolio](https://github.com/larafoster/Resume-and-Portfolio)
 - 📫   How to reach me ...larafoster.dev@gmail.com
 
 <!---
